@@ -59,10 +59,10 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <Placemark>
 <name><![CDATA[Marker 2]]></name>
 <description><![CDATA[]]></description>
-<TimeStamp><when>2016-01-13T16:01:10.880Z</when></TimeStamp>
+<TimeStamp><when>2016-01-13T16:03:32.911Z</when></TimeStamp>
 <styleUrl>#waypoint</styleUrl>
 <Point>
-<coordinates>-1.201076,52.939561,107.0</coordinates>
+<coordinates>-1.198402,52.940001,99.0</coordinates>
 </Point>
 </Placemark>
 <Placemark>
